@@ -6,7 +6,7 @@ Aplicativo desenvolvido em **Flutter** para controle de gastos com combustível 
 
 ## 📱 Download do Aplicativo (Android)
 
-* 📦 **[Baixar APK para Android (v1.0.0)](./releases/custo_certo_combustivel.apk)** 
+* 📦 **[Baixar APK para Android (v1.0.0)](https://github.com/marcknero/custo_certo_combustivel/releases/tag/v1.0.0)** 
 
 ---
 
